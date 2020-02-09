@@ -1,0 +1,146 @@
+.top-left, .top-middle, .top-right{
+	text-align: center;
+	display: inline-block;
+	width: 30%;
+}
+
+.a1{
+	text-decoration: none;
+}
+
+#h1{
+	font-family: "rage italic";
+}
+
+.top1, .header1{
+	background-color: chocolate;
+}
+
+.shoppingcart, .search{
+	text-align: center;
+	display: inline-block;
+	width: 30%;
+}
+
+.menu{
+	position: relative;
+}
+
+.menu-left{
+	height: 800px;
+	text-align: center;
+	display: inline-block;
+	width: 30%;
+	padding-top: 40px;
+	float: left;
+	line-height: 40px;
+}
+
+.menu-right{
+	height: 800px;
+	text-align: center;
+	display: inline-block;
+	width: 50%;
+	padding-top: 10px;
+}
+
+ul.table{
+	width:650px;
+	height:1000px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	overflow: auto;
+}
+
+ul.table li{
+	width:200px;
+	height: 260px;
+	float:left;
+	border: 1px solid=#CCC
+}
+
+.picture {
+	width: 200px;
+	height: 200px;
+
+	padding: 35px 8px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 15px;
+}
+
+.detail{
+	width: 800px;
+	height: 500px;
+	margin: auto;
+	margin-top: 20px;
+	position: relative;
+}
+
+.detail-left{
+	width: 100px;
+	z-index: 999;
+	position: absolute;
+}
+
+.detail-right{
+	width: 480px;
+	height: 700px;
+	position: absolute;
+	top: 0px;
+	left: 320px;
+	z-index: 1;
+	text-align: left;
+}
+
+nav ul{
+	display: none;
+	position: relative;
+}
+
+#ul1{
+	
+	background: white;
+	width: 330px;
+	padding-bottom: 5px;
+	margin-left: 30px;
+	margin-top: -10px;
+}
+
+
+nav:hover ul{
+	display: block;
+	position: relative;
+}
+
+#s1{
+	font-size: 11;
+}
+
+.sc-top{
+	text-align: center;
+	padding-bottom:5px ;
+	margin-bottom: -10px;
+}
+
+.sc-bottom{
+	margin-top: -5px;	
+}
+
+
+
+.sc-left, .sc-middle, .sc-right{
+	width: 30%;
+	display: inline-block;
+}
+
+.input-num{
+	width: 30px;
+}
+
+#input-submit{
+	width: 55px;
+}
+
+
